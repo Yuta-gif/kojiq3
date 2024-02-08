@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38635906681",
+    "project_id": "kojiq3-a0dbd",
+    "storage_bucket": "kojiq3-a0dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38635906681:android:61d3b91dcd6d1dfa7756a8",
+        "android_client_info": {
+          "package_name": "com.example.kojiq3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvt3Yf0ZG0B2_W6ZLMg9ZP0jY1W1rhDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
